@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenCV Learning</string>
+    <string name="opencv_camera">OpenCV Camera</string>
+</resources>
